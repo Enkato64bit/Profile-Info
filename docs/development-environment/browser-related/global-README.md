@@ -1,5 +1,5 @@
 # global-README.md  
-## [Custom Search Engine](/docs/development-environment/browser-extensions/custom-search-engine.md)  
+## [Custom Search Engine](/docs/development-environment/browser-related/custom-search-engine.md)  
   
 
 
