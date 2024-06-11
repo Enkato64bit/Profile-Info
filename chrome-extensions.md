@@ -1,4 +1,4 @@
-# Development Environment  
+# [Development Environment](/personal-documents/docs/browser-extensions.md) 
 ## Chrome Extensions  
 [enhanced-github](https://chromewebstore.google.com/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd)  
 [refined-github](https://chromewebstore.google.com/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)  
