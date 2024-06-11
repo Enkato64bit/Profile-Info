@@ -1,6 +1,6 @@
 ## [Custom Search Engine](/Personal-documents/docs/development-environment/custom-search-engine.md): 
 
-Path: /Enkato64bit/Personal-documents/docs/development-environment/browser-extensions/custom-search-engine.md  
+Path: /Enkato64bit/Personal-documents/docs/development-environment/browser-related/browser-extensions/custom-search-engine.md  
 Relative Path: /docs/development-environment/browser-extensions/custom-search-engine.md
  ___
 

@@ -1,6 +1,3 @@
-[foo]: //personal-documents/docs/browser-extensions.md "Browser Extensions"
-
-
-[foo]
-
+[foo]: 
+docs/development-environment/browser-related/browser-extensions.md "Browser Extensions"  
 [foo]
