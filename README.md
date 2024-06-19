@@ -1,7 +1,13 @@
-# README.md  
-## Custom Search Engine
-## Markdown snippets
-### Comment
+#  [Dotfiles](#dotfiles)  
+___  
+### [Custom Search Engines](#custom-search-engines)
+
+google.com/searchq=%s
+___
+  
+### Markdown snippet
+
+  Comment snippet
 
 ```
  <! -- your comment -->    
