@@ -22,7 +22,7 @@ Renders as
  ```
 # Table-Snippet
 
-[Table](#table)
+[Table]
 
 1|-Shortcut-|-Description-|-url-|
 1|------|------|------|  
