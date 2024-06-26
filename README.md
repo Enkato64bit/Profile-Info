@@ -61,6 +61,8 @@ Example: I have this octocat image in google, and its file id is 1913oZeBZPBNiUu
 https://drive.google.com/file/d/179O0CK_8pXQTls2iLJKr7wSOybLvqUwR/view?usp=sharing
 ![Map of Incident Location](https://drive.google.com/uc?export=view&id=179O0CK_8pXQTls2iLJKr7wSOybLvqUwR)  
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 ###  Embedded Images via repo
 
 Try this markdown:
