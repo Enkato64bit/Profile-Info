@@ -56,9 +56,10 @@ Insert image in Markdown as ususal using the link from step 4.
 For example: ![image](https://drive.google.com/uc?export=view&id=<FILE_ID>)
 Example: I have this octocat image in google, and its file id is 1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG. You can try ![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG) in your markdown file or even in this answer.
 
-Test
+
+
 https://drive.google.com/file/d/179O0CK_8pXQTls2iLJKr7wSOybLvqUwR/view?usp=sharing
-https://drive.google.com/uc?export=view&id=179O0CK_8pXQTls2iLJKr7wSOybLvqUwR  
+![Map of Incident Location](https://drive.google.com/uc?export=view&id=179O0CK_8pXQTls2iLJKr7wSOybLvqUwR)  
 
 ###  Embedded Images via repo
 
