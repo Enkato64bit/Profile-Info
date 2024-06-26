@@ -35,5 +35,3 @@ Renders as
 |'@installed-extension'|[temp3](3)|3|
 |'@chrome-extension'|[temp1](1)|1|
 |'@edge-extension'|[temp2](2)|2|
-
-
